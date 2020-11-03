@@ -1,3 +1,2 @@
 # Olá,Mundo!
- Meu primeiro repositório.
-essa linha eu adcionei diretamente no site, que legal!
+ Meu primeiro repositório, Que legal! Estou no GitHub!
